@@ -1,1 +1,2 @@
-# my-website https://nuranurbekova.github.io/my-website/
+# my-website (Kelechek)
+# https://nuranurbekova.github.io/my-website/
